@@ -1,4 +1,4 @@
-Auto generated from geval at version: 2.1.1.
+Auto generated from geval package.
 
 # geval
 

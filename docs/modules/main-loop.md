@@ -1,4 +1,4 @@
-Auto generated from main-loop at version: 3.1.0.
+Auto generated from main-loop package.
 
 # main-loop
 

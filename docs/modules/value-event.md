@@ -1,4 +1,4 @@
-Auto generated from value-event at version: 5.0.0.
+Auto generated from value-event package.
 
 # value-event
 

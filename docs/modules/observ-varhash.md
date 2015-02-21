@@ -1,4 +1,4 @@
-Auto generated from observ-varhash at version: 1.0.4.
+Auto generated from observ-varhash package.
 
 # observ-varhash [![build status][1]][2]
 
